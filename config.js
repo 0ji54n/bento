@@ -69,6 +69,12 @@ const CONFIG = {
 			icon: 'clipboard-minus',
 			link: 'https://docs.google.com/document/d/1OjSamPprdikzYXQk2CqSOXEsP1R6V5vYKCPFe6YXWPA/edit?tab=t.0',
 		},
+		{
+			id: '4',
+			name: 'Messenger'
+			icon: 'message-circle-more'
+			link: 'https://messenger.com'
+		},
 	],
 	secondButtonsContainer: [
 		{
@@ -90,42 +96,16 @@ const CONFIG = {
 			id: '1',
 			links: [
 				{
-					name: 'Inspirational',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: '気に入り',
+					link: 'https://open.spotify.com/user/31xrm4xo3m4pnrzmnwmarva37ohq?si=bbaba9a667df4832',
 				},
 				{
-					name: 'Classic',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'ユーロビート',
+					link: 'https://open.spotify.com/playlist/05AqMPMJnXvuKU9VxwQ9CP?si=62308c319d0e4747',
 				},
 				{
-					name: 'Oldies',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
-				},
-				{
-					name: 'Rock',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
-				},
-			],
-		},
-		{
-			icon: 'coffee',
-			id: '2',
-			links: [
-				{
-					name: 'Linkedin',
-					link: 'https://www.linkedin.com',
-				},
-				{
-					name: 'Dribbble',
-					link: 'https://www.dribbble.com',
-				},
-				{
-					name: 'Trello',
-					link: 'https://www.trello.com',
-				},
-				{
-					name: 'Slack',
-					link: 'https://www.slack.com',
+					name: 'Jロック・Jポップ',
+					link: 'https://open.spotify.com/playlist/37i9dQZF1EQoowv2cDraCW?si=de1597e3ec0f47ce',
 				},
 			],
 		},
