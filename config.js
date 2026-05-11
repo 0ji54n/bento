@@ -71,9 +71,9 @@ const CONFIG = {
 		},
 		{
 			id: '4',
-			name: 'Messenger'
-			icon: 'message-circle-more'
-			link: 'https://messenger.com'
+			name: 'Messenger',
+			icon: 'message-circle-more',
+			link: 'https://messenger.com',
 		},
 	],
 	secondButtonsContainer: [
