@@ -75,6 +75,18 @@ const CONFIG = {
 			icon: 'message-circle-more',
 			link: 'https://messenger.com',
 		},
+		{
+			id: '5',
+			name: 'Claude',
+			icon: 'bot-message-square',
+			link: 'https://claude.ai/',
+		},
+		{		    
+			id: '6',		    
+			name: 'Gemini',		    
+			icon: 'search',		    
+			link: 'https://gemini.google.com/app',
+		},
 	],
 
 	// ┬  ┬┌─┐┌┬┐┌─┐
@@ -119,5 +131,26 @@ const CONFIG = {
 			        },
 			],
 		},
+	],
+	// Second Links Container
+	secondListsContainer: [
+			    {
+			        icon: 'binary',
+			        id: '1',
+			        links: [
+			            {
+			                name: 'Spotify',
+			                link: 'https://www.spotify.com',
+			            },
+			            {
+			                name: 'Reddit',
+			                link: 'https://www.reddit.com',
+			            },
+			            {
+			                name: 'Github',
+			                link: 'https://github.com/0ji54n',
+			            },
+			        ],
+			    },
 	],
 };
