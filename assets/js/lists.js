@@ -23,6 +23,7 @@ const generateFirstListsContainer = () => {
           href="${list.links[2].link}"
           class="listItem"
           >${list.links[2].name}</a>
+
         </div>
       `;
 		const position = 'beforeend';
@@ -50,11 +51,7 @@ const generateSecondListsContainer = () => {
         href="${list.links[2].link}"
         class="listItem"
         >${list.links[2].name}</a>
-        <a
-        target="${CONFIG.openInNewTab ? '_blank' : ''}"
-        href="${list.links[3].link}"
-        class="listItem"
-        >${list.links[3].name}</a>
+
         </div>
       `;
 		const position = 'beforeend';

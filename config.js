@@ -132,25 +132,4 @@ const CONFIG = {
 			],
 		},
 	],
-	// Second Links Container
-	secondListsContainer: [
-			    {
-			        icon: 'binary',
-			        id: '1',
-			        links: [
-			            {
-			                name: 'Spotify',
-			                link: 'https://www.spotify.com',
-			            },
-			            {
-			                name: 'Reddit',
-			                link: 'https://www.reddit.com',
-			            },
-			            {
-			                name: 'Github',
-			                link: 'https://github.com/0ji54n',
-			            },
-			        ],
-			    },
-	],
 };
