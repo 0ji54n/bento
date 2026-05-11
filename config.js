@@ -67,7 +67,8 @@ const CONFIG = {
 			id: '3',
 			name: 'Report',
 			icon: 'clipboard-minus',
-			link: 'https://docs.google.com/document/d/1OjSamPprdikzYXQk2CqSOXEsP1R6V5vYKCPFe6YXWPA/edit?tab=t.0'
+			link: 'https://docs.google.com/document/d/1OjSamPprdikzYXQk2CqSOXEsP1R6V5vYKCPFe6YXWPA/edit?tab=t.0',
+		},
 	],
 	secondButtonsContainer: [
 		{
