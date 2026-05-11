@@ -84,7 +84,7 @@ const CONFIG = {
 	// First Links Container
 	firstlistsContainer: [
 		{
-			icon: 'musics',
+			icon: 'guitar',
 			id: '1',
 			links: [
 				{
@@ -102,7 +102,7 @@ const CONFIG = {
 			],
 		},
 		{
-			icon: 'projects',
+			icon: 'folder-kanban',
 			id: '2',
       			links: [
 			        {
