@@ -76,14 +76,6 @@ const CONFIG = {
 			link: 'https://messenger.com',
 		},
 	],
-	secondButtonsContainer: [
-		{
-			id: '1',
-			name: 'twitter',
-			icon: 'twitter',
-			link: 'https://twitter.com/',
-		},
-	],
 
 	// ┬  ┬┌─┐┌┬┐┌─┐
 	// │  │└─┐ │ └─┐
@@ -92,7 +84,7 @@ const CONFIG = {
 	// First Links Container
 	firstlistsContainer: [
 		{
-			icon: 'music',
+			icon: 'musics',
 			id: '1',
 			links: [
 				{
@@ -109,53 +101,22 @@ const CONFIG = {
 				},
 			],
 		},
+		{
+			icon: 'projects',
+			id: '2',
+      			links: [
+			        {
+			          name: 'Call Center',
+			          link: 'https://docs.google.com/spreadsheets/d/1mzT7friH8XzW089XnAfqKwYebhoR9dMnlwJYtVZnhGs/edit?gid=210746765#gid=210746765',
+			        },
+			        {
+			          name: 'LivPark',
+			          link: 'https://docs.google.com/spreadsheets/d/1vQ96d7DIZr73qTqPmAf3wI8lUhLW9nDh8_FVd6qZn4Y/edit?gid=757132495#gid=757132495',
+			        },
+			        {
+			          name: 'Scraping',
+			          link: 'https://docs.google.com/spreadsheets/d/1DV7lKBwZfpjiauKZH-52mcQwIQrc0ZNHPR9T8h89v4s/edit?gid=0#gid=0',
+			        },
 	],
 
-	// Second Links Container
-	secondListsContainer: [
-		{
-			icon: 'binary',
-			id: '1',
-			links: [
-				{
-					name: 'Spotify',
-					link: 'https://www.spotify.com',
-				},
-				{
-					name: 'Reddit',
-					link: 'https://www.reddit.com',
-				},
-				{
-					name: 'Hashnode',
-					link: 'https://www.hashnode.com',
-				},
-				{
-					name: 'Pocket',
-					link: 'https://www.pocket.com',
-				},
-			],
-		},
-		{
-			icon: 'github',
-			id: '2',
-			links: [
-				{
-					name: 'Front',
-					link: 'https://www.reddit.com/r/Frontend/',
-				},
-				{
-					name: 'Rust',
-					link: 'https://www.reddit.com/r/rust/',
-				},
-				{
-					name: 'Go',
-					link: 'https://www.reddit.com/r/golang/',
-				},
-				{
-					name: 'Repos',
-					link: 'https://github.com/migueravila',
-				},
-			],
-		},
-	],
 };
