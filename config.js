@@ -117,6 +117,10 @@ const CONFIG = {
 			          name: 'Scraping',
 			          link: 'https://docs.google.com/spreadsheets/d/1DV7lKBwZfpjiauKZH-52mcQwIQrc0ZNHPR9T8h89v4s/edit?gid=0#gid=0',
 			        },
+			],
+		},
 	],
 
+	// Second Links Container
+	secondListsContainer: [],
 };
